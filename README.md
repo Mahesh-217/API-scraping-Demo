@@ -9,3 +9,11 @@ And demo is done to show that there are errors when security measures like Authe
 
 
 ![Uploading image.png…]()
+There are five files
+userdata.py has the profile_details data with Name, Email, etc.
+retrievaldata.py will rerieve the requests module in python
+
+Rate Limit will limit the number of times the data is being accessed in a time period.
+Well, it is essential but still the attackers may be able to access it. (ratelimit.py)
+
+Authentication.py
